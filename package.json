@@ -3,6 +3,7 @@
   "version": "3.0.6",
   "description": "An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations",
   "main": "lib/BurgerMenu.js",
+  "sideEffects": false,
   "author": "Imogen Wentworth",
   "homepage": "https://github.com/negomi/react-burger-menu",
   "repository": {
